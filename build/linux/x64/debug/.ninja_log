@@ -1,0 +1,28 @@
+# ninja log v5
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/libflutter_linux_gtk.so	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_engine.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_value.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/fl_view.h	bea7a176edc213ed
+0	5148	0	/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	bea7a176edc213ed
+0	5148	0	flutter/_phony_	bea7a176edc213ed
+5148	5697	1711619848903423576	CMakeFiles/airbnb_clone.dir/flutter/generated_plugin_registrant.cc.o	5ba6198223f94ed6
+5148	5741	1711619848947426147	CMakeFiles/airbnb_clone.dir/main.cc.o	52cab1f1d1f727b8
+5148	5775	1711619848979428016	CMakeFiles/airbnb_clone.dir/my_application.cc.o	a576ba6b18057d35
+5775	5898	1711619849103435249	intermediates_do_not_run/airbnb_clone	86b4bda58e1adf17
+5898	5958	0	CMakeFiles/install.util	58a0eba4cb21befe

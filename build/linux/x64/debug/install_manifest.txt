@@ -1,0 +1,12 @@
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/airbnb_clone
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/anicetfantomas/Desktop/Personnal Projects/Flutter learning/Flutter_AirBnb/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
